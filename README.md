@@ -1,2 +1,2 @@
 # Grayware
-This exe annoys users with notepads opening up
+This executable annoys users by opening Notepad windows repeatedly
